@@ -1,0 +1,7 @@
+{
+  "name": "AI Ramadan Prep Assistant",
+  "description": "A spiritual and physical habit tracker to prepare for Ramadan, featuring AI-driven insights, voice journaling, and a live AI spiritual coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
